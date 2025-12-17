@@ -3,7 +3,7 @@
 Full-stack Software Engineer (Ruby on Rails, React, JavaScript/TypeScript) shipping end-to-end features: architecture → data modeling → APIs → UI → testing → observability → production support.
 
 - Location: Arizona, USA (Remote)
-- Tech: Ruby on Rails, React, JavaScript/TypeScript, SQL, Docker, AWS, Heroku
+- Tech: Ruby on Rails, Django/Python, React, JavaScript/TypeScript, SQL, Docker, AWS, Heroku
 - Strengths: ownership, performance tuning, integrations, clean UX
 
 ## Featured Projects
