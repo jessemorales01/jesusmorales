@@ -9,7 +9,7 @@ Full-stack Software Engineer (Ruby on Rails, React, JavaScript/TypeScript) shipp
 ## Featured Projects
 ### PDF Editor (Rails + JS)
 Browser-based PDF annotation + workflow tooling.
-- Product Link: https://erxonline.com/plans
+- Product Link: https://erxonline.com
 - Repo: Private (company) — happy to walk through architecture and tradeoffs
 - Highlights: APIs, data modeling, performance, background processing, production reliability
 
